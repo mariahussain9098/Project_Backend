@@ -33,6 +33,24 @@ The **Student Feedback Portal** is a web application built with the MERN stack (
 This project was collaboratively developed by:
 - **Member 1:** [Maria](https://github.com/mariahussain9098) 
 - **Member 2:** [Afaf Afridi](https://github.com/AfafAfridi) 
-- **Member 3:** [Nimra Shahid](https://github.com/nimrashahid157) 
+- **Member 3:** [Nimra Shahid](https://github.com/nimrashahid157)
+
+Group name:
+
+Code Crafters
+
+Members: 
+
+Maira Hussain
+Afaf Afridi
+Nimra Shahid
+
+Teacher name:
+
+Iqra Naz
+
+Batch 10
+
+No seperate git hub repositories were made as we all worked together on the project.
 
 
